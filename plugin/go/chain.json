@@ -1,16 +1,16 @@
 {
   "chainId": 1,
-  "name": "canopy",
-  "symbol": "CNPY",
-  "website": "https://canopynetwork.org",
+  "name": "Helix Protocol",
+  "symbol": "HLIX",
+  "website": "https://helixprotocol.io",
   "logoURI": "https://",
   "bannerURI": "https://",
   "explorerLogoURI": "https://",
   "walletLogoURI": "https://",
-  "color1Hex": "#2c9b5a",
-  "color2Hex": "#16502e",
-  "description": "Canopy is a recursive, progressive-sovereignty framework for blockchains",
+  "color1Hex": "#6C3CE1",
+  "color2Hex": "#00E5A0",
+  "description": "Helix Protocol is a double-strand consensus blockchain inspired by DNA architecture. Using parallel validation strands and cryptographic recombination, Helix achieves adaptive fault tolerance with self-healing state transitions. Built for decentralized science (DeSci), genomic data marketplaces, and bio-computational applications requiring verifiable, tamper-proof biological data anchoring.",
   "consensusPreset": 1,
-  "initialMintPerBlock": 80000000,
-  "blocksPerHalvening": 3150000
+  "initialMintPerBlock": 5000000,
+  "blocksPerHalvening": 525000
 }

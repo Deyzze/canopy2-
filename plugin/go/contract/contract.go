@@ -16,7 +16,7 @@ import (
 
 // PluginConfig: the configuration of the contract
 var ContractConfig = &PluginConfig{
-	Name:                  "go_plugin_contract",
+	Name:                  "helix_protocol_contract",
 	Id:                    1,
 	Version:               1,
 	SupportedTransactions: []string{"send"},
